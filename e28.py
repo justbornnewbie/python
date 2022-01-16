@@ -2,5 +2,5 @@
 def name(ename):
     fname = input("Please enter your name: ")
     message = "Hello %s" % (fname)
-    return message.title()
+    return message
 print(name("rahul"))

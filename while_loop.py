@@ -1,3 +1,3 @@
 username = ''
 while username != "pypy":
-    username = input("Enter your username")
+    username = input("Enter your username: ")
